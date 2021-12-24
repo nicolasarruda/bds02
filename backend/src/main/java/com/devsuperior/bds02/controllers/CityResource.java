@@ -1,4 +1,4 @@
-package com.devsuperior.bds02.resources;
+package com.devsuperior.bds02.controllers;
 
 import java.net.URI;
 import java.util.List;
