@@ -19,7 +19,7 @@ import com.devsuperior.bds02.services.CityService;
 
 @RestController
 @RequestMapping("/cities")
-public class CityResource {
+public class CityController {
 
 	@Autowired
 	private CityService service;	
